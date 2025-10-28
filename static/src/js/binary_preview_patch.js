@@ -5,7 +5,7 @@ import { registry } from "@web/core/registry";
 import { isBinarySize } from "@web/core/utils/binary";
 import { _t } from "@web/core/l10n/translation";
 import { AlertDialog } from "@web/core/confirmation_dialog/confirmation_dialog";
-// this is version 2
+// this is version 3 - from local
 // ---------- Strict allow-list (configurable) ----------
 const KNOWN_EXT = new Set(["pdf","png","jpg","jpeg","gif","bmp","webp","svg","txt"]); //,"doc","docx"
 
