@@ -4,8 +4,8 @@
     <xpath expr="//FileUploader" position="after">
       <button
         class="btn btn-link btn-sm lh-1 fa fa-eye o_preview_file_button"
-        aria-label="PreviewNew"
-        data-tooltip="PreviewNew"
+        aria-label="Preview"
+        data-tooltip="Preview"
         t-on-click.stop="onPreviewClick"/>
     </xpath>
   </t>
